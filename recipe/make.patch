@@ -30,7 +30,7 @@ index 95ccdc3..49dd8e4 100644
 -  CFLAGS += -I/usr/local/include -L/usr/local/lib
 -endif
 -
- HDRS = mujs.h jsi.h regexp.h utf.h astnames.h opnames.h
+ HDRS = mujs.h jsi.h regexp.h utf.h astnames.h opnames.h utfdata.h
  
  ifneq ($(HAVE_READLINE),no)
 @@ -80,7 +72,7 @@ utfdata.h: genucd.py UnicodeData.txt
