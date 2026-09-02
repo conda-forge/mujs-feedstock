@@ -3,7 +3,7 @@ About mujs-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mujs-feedstock/blob/main/LICENSE.txt)
 
-Home: https://mujs.com
+Home: https://mujs.com/
 
 Package license: ISC
 
@@ -19,7 +19,6 @@ The interface for binding with native code is designed to be as simple as
 possible to use, and is very similar to Lua. There is no need to interact with
 byzantine C++ template mechanisms, or worry about marking and unmarking garbage
 collection roots, or wrestle with obscure build systems.
-
 
 Current build status
 ====================
@@ -226,7 +225,4 @@ Feedstock Maintainers
 =====================
 
 * [@jan-janssen](https://github.com/jan-janssen/)
-
-
-<!-- dummy commit to enable rerendering -->
 
